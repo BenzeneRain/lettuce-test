@@ -1,0 +1,13 @@
+lettuce==0.1.35
+lxml==2.3.4
+mechanize==0.2.5
+pytz==2012c
+rdflib==3.1.0
+selenium==2.17.0
+splinter==0.4.4
+tornado==2.2.1
+wsgiref==0.1.2
+zope.event==4.0.0
+zope.interface==4.0.0
+zope.schema==4.2.0
+zope.testbrowser==4.0.2
